@@ -34,8 +34,8 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:ems="10"
+        android:hint="請輸入身高"
         android:inputType="numberSigned"
-        android:text="Name"
         app:layout_constraintBottom_toBottomOf="@+id/textView2"
         app:layout_constraintStart_toEndOf="@+id/textView2"
         app:layout_constraintTop_toTopOf="@+id/textView2" />
@@ -56,8 +56,8 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:ems="10"
+        android:hint="請輸入體重"
         android:inputType="numberSigned"
-        android:text="Name"
         app:layout_constraintBottom_toBottomOf="@+id/textView3"
         app:layout_constraintStart_toEndOf="@+id/textView3"
         app:layout_constraintTop_toTopOf="@+id/textView3" />
